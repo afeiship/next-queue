@@ -24,6 +24,9 @@ npm install -S @feizheng/next-queue
 - isEmpty()：如果队列中不包含任何元素，返回true，否则返回false。
 - size()：返回队列包含的元素个数，与数组的length属性类似。
 
+## other
+- PriorityQueue
+- LoopQueue
 
 ## usage
 ```js
