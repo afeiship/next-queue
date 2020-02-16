@@ -1,6 +1,6 @@
 {
   "name": "@feizheng/next-queue",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "description": "Queue for next.",
   "homepage": "https://github.com/afeiship/next-queue",
   "author": {
@@ -31,7 +31,7 @@
     "yargs": "^15.1.0"
   },
   "dependencies": {
-    "@feizheng/next-js-core2": "^2.4.0"
+    "@feizheng/next-js-core2": "^2.4.1"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
